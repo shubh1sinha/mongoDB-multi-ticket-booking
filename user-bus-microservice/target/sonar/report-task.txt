@@ -1,0 +1,6 @@
+projectKey=com.spring:user-bus-microservice
+serverUrl=http://localhost:9000
+serverVersion=9.5.0.56709
+dashboardUrl=http://localhost:9000/dashboard?id=com.spring%3Auser-bus-microservice
+ceTaskId=AYNmltev82Xj_ijl7i_n
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYNmltev82Xj_ijl7i_n
